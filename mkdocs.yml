@@ -1,0 +1,61 @@
+site_name: WSO2 Configuration Catalog
+
+nav:
+ - Config Catalog:
+   - All Configs:
+     - Server Connections: 'server_conn.md'
+     - Datasources: 'datasources.md'
+     - User Management: 'user_management.md'
+     - Clustering: 'clustering.md'
+     - Security: 'security.md'
+     - Multitenancy: 'multitenancy.md' 
+     - Data Publishing: 'data_publishing'
+     - Management Console: 'management_console.md'
+     - Transports: 'transports.md'
+     - Mediation: 'mediation.md'
+   - Deployment Configs:
+     - Server Connections: 'server_conn.md'
+     - Datasources: 'datasources.md'
+     - User Management: 'user_management.md'
+     - Clustering: 'clustering.md'
+     - Security: 'security.md'
+     - Multitenancy: 'multitenancy.md' 
+     - Data Publishing: 'data_publishing'
+     - Management Console: 'management_console.md'
+     - Transports: 'transports.md'
+     - Mediation: 'mediation.md'
+   - Feature Configs:
+     - Server Connections: 'server_conn.md'
+     - Datasources: 'datasources.md'
+     - User Management: 'user_management.md'
+     - Clustering: 'clustering.md'
+     - Security: 'security.md'
+     - Multitenancy: 'multitenancy.md' 
+     - Data Publishing: 'data_publishing'
+     - Management Console: 'management_console.md'
+     - Transports: 'transports.md'
+     - Mediation: 'mediation.md'
+   - Scenario Configs:
+     - Server Connections: 'server_conn.md'
+     - Datasources: 'datasources.md'
+     - User Management: 'user_management.md'
+     - Clustering: 'clustering.md'
+     - Security: 'security.md'
+     - Multitenancy: 'multitenancy.md' 
+     - Data Publishing: 'data_publishing'
+     - Management Console: 'management_console.md'
+     - Transports: 'transports.md'
+     - Mediation: 'mediation.md'
+
+theme:
+  name: 'material'
+  palette: 
+    primary: 'blue grey'
+    accent: 'deep orange'
+  font:
+    text: 'Nunito Sans'
+    code: 'Courier New'
+  logo: 'images/WSO2_Software_Logo.png'
+  language: 'en'
+  feature:
+    tabs: true 
