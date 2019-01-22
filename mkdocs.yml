@@ -48,7 +48,7 @@ nav:
      - Mediation: 'mediation.md'
 
 theme:
-  name: 'material'
+  name: 'readthedocs'
   palette: 
     primary: 'blue grey'
     accent: 'deep orange'
